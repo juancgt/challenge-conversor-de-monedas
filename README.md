@@ -37,15 +37,6 @@ video
 
 ![image](https://github.com/juancgt/challenge-conversor-de-monedas/assets/51769980/ced048f7-102e-4a5b-b65f-48068a0747fa)
 
-## Contribución
-
-¡Las contribuciones son bienvenidas! Si deseas mejorar este proyecto, aquí tienes algunos pasos sugeridos:
-
-1. Haz un fork del repositorio.
-2. Crea una nueva rama (`git checkout -b feature/nueva-caracteristica`).
-3. Realiza tus cambios y commitea (`git commit -am 'Añade nueva característica'`).
-4. Haz push a la rama (`git push origin feature/nueva-caracteristica`).
-5. Abre una solicitud de extracción.
 
 ## Créditos
 
