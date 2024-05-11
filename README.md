@@ -1,4 +1,5 @@
-#Challenge One Alura Latam - Conversor de Monedas
+# Challenge One Alura Latam - Conversor de Monedas
+
 Este proyecto es un conversor de monedas que utiliza la API exchangerate para obtener las tasas de cambio más recientes. Está desarrollado en Java y proporciona una interfaz de usuario simple a través de la línea de comandos.
 
 ## Funcionalidades
@@ -30,7 +31,7 @@ Este proyecto es un conversor de monedas que utiliza la API exchangerate para ob
 
 ## Ejemplo de Uso
 
-[Inserta aquí un breve video demostrativo del proyecto en acción.]
+video
 
 ## Capturas de Pantalla
 
