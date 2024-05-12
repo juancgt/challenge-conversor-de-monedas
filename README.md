@@ -31,7 +31,7 @@ Este proyecto es un conversor de monedas que utiliza la API exchangerate para ob
 
 ## Ejemplo de Uso
 
-video
+[video](https://github.com/juancgt/challenge-conversor-de-monedas/assets/51769980/0398765c-56dc-4262-ac14-ec37cdb0dfa8)
 
 ## Capturas de Pantalla
 
